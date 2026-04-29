@@ -1,10 +1,5 @@
 # Line Follower Robot with Obstacle Detection
 
-**Author:** Md. Tasin Absar 
-**Course:** CSE-1121  
-**Semester:** 1st Semester, May 2024  
-**Project:** Semester Final Project  
-
 ---
 
 ## Project Overview
@@ -70,3 +65,9 @@ This project presents a **Line Follower Robot with Obstacle Detection** built us
 ## Acknowledgments
 
 This project was completed as the **final project** for the **CSE-1121 course, 1st semester, May 2024**.
+
+---
+
+## Authors
+- [Md. Tasin Absar](https://github.com/WorldlySage03/)
+- [Shahid Mohammed Rokon Uddin (Shawon)](https://github.com/Firewafer)
